@@ -1,0 +1,39 @@
+.bg-portal {
+    background-color: #006E99;
+}
+
+.header {
+    background-color: #006E99;
+}
+
+.btn-portal {
+    background-color: #006E99;
+    color: #fff;
+}
+
+.border-portal{
+    border-color: #006E99;
+}
+
+.tengah {
+    text-align: justify;
+}
+
+.color {
+    color: #006E99;
+    text-decoration:none;
+    -o-transition:color .3s ease-in;
+    -ms-transition:color .3s ease-in;
+    -moz-transition:color .3s ease-in;
+    -webkit-transition:color .3s ease-in;
+    transition:color .3s ease-in;
+}
+
+.color:hover{
+    color:#4691e7;
+    text-decoration:none;
+}
+
+.mt{
+    margin-top: 40px;
+}
